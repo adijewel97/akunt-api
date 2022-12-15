@@ -126,7 +126,7 @@ class TransactionController extends Controller
      */
     public function edit($id)
     {
-        //
+        //isi edit belum
     }
 
     /**
